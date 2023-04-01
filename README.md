@@ -1,5 +1,5 @@
-Project name: **Microsoft calculator**.
-**itshliakhov.github.io/microsoft-calculator/**
+Project name: **Microsoft calculator**.  
+**https://itshliakhov.github.io/microsoft-calculator/**
 ------
 **🛠 Technologies I used:**
 
